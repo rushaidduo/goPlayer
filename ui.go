@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gizak/termui"
+	"github.com/gizak/termui/v1"
 )
 
 type uiState int
